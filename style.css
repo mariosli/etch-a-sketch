@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    gap: 2px;
+    width: 960px;
+    height: 960px;
+}
+
+/* .grid-div:hover {
+    background-color: blue;
+} */
+
+body {
+    margin: 0px;
+    padding: 0px;;
+}
+button {
+    margin: 10px;
+}
